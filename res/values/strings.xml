@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">TrainingSlidingMenu</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string-array name="menu1_array">
+        <item>TopView 1</item>
+        <item>TopView 2</item>
+        <item>TopView 3</item>
+        <item>TopView 4</item>
+        
+    </string-array>
+    <string-array name="menu2_array">
+        <item>TopView 5</item>
+        <item>TopView 6</item>
+        <item>TopView 7</item>
+        <item>TopView 8</item>
+    </string-array>
+    <string name="drawer_open">Open navigation drawer</string>
+    <string name="drawer_close">Close navigation drawer</string>
+    <string name="action_websearch">Web search</string>
+    <string name="action_bar_search">Search</string>
+    <string name="app_not_available">Sorry, there\'s not available</string>
+    <string name="TODO"></string>
+
+</resources>
